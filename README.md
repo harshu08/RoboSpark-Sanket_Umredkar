@@ -15,8 +15,7 @@ Similar to your day 1 task
 Make a seperate folder for each task. That folder should contain all the files of that task. Follow folder name format.
 
 The folder name of the task should be:
-<Date><Domain name>_Task-1<your full name>
-<Date><Domain name>_Task-2<your full name>
+
 E.g. 2-7-2020_DS_Task-1_Sanket_Umredkar
 
 In this folder all files of the respective task.
